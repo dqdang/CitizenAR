@@ -2,7 +2,6 @@ import socket #Imports needed libraries
 import random
 import threading
 
-
 def run(ip, port):
     sent = 0
     while 1: #Infinitely loops sending packets to the port until the program is exited.
@@ -32,3 +31,4 @@ for i in range(0, 255):
         thread2 = threading.Thread(target=run, args=(ip, j,))
         threads.append
         thread2.start()
+        
