@@ -1,3 +1,3 @@
-# CitizenAR
+# citizenAR
 
-Fun time at CitizenAR
+Fun time at citizenAR
