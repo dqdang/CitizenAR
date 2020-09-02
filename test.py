@@ -33,6 +33,6 @@ def topKFrequent(words, k):
 
 
 
-inpt = ["i", "love", "leetcode", "i", "love", "coding"]
+inpt = ["i", "love", "citizenAR", "i", "love", "pizza"]
 k = 2
 print(topKFrequent(inpt, k))
